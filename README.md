@@ -1,1 +1,1 @@
-# CompNetwork1
+# Computer Network Lab
